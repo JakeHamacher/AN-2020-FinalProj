@@ -1,3 +1,14 @@
+// # Student Name:  Jacob Hamacher
+// # Program Name:  AN Final Client
+// # Creation Date:  11/21/22
+// # Last Modified Date:  4/7/25(Adding comments)
+// # CSCI Course:  CSCI 452
+// # Grade Received:  100/100 (Pending grade)
+// # Design Comments: This is a C++ program that connects
+//                    to a C++ server and uses UDP to transfer
+//                    a file from one computer to another on a 
+//                    local network
+
 #include <iostream>
 #include <sys/socket.h>
 #include <netinet/in.h>
